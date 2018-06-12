@@ -1,0 +1,6 @@
+/Users/Andrey/Desktop/Labs OOP University/Lab1CSharp/Lab1CSharp/bin/Debug/Lab1CSharp.exe
+/Users/Andrey/Desktop/Labs OOP University/Lab1CSharp/Lab1CSharp/bin/Debug/Lab1CSharp.pdb
+/Users/Andrey/Desktop/Labs OOP University/Lab1CSharp/Lab1CSharp/obj/x86/Debug/Lab1CSharp.csprojResolveAssemblyReference.cache
+/Users/Andrey/Desktop/Labs OOP University/Lab1CSharp/Lab1CSharp/obj/x86/Debug/Lab1CSharp.csproj.CoreCompileInputs.cache
+/Users/Andrey/Desktop/Labs OOP University/Lab1CSharp/Lab1CSharp/obj/x86/Debug/Lab1CSharp.exe
+/Users/Andrey/Desktop/Labs OOP University/Lab1CSharp/Lab1CSharp/obj/x86/Debug/Lab1CSharp.pdb

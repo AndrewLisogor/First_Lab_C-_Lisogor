@@ -1,0 +1,3 @@
+/Users/Andrey/Desktop/Labs OOP University/Lab1CSharp/Lab1CSharp/bin/Release/Lab1CSharp.exe
+/Users/Andrey/Desktop/Labs OOP University/Lab1CSharp/Lab1CSharp/obj/x86/Release/Lab1CSharp.csproj.CoreCompileInputs.cache
+/Users/Andrey/Desktop/Labs OOP University/Lab1CSharp/Lab1CSharp/obj/x86/Release/Lab1CSharp.exe
